@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Отправка и получение фото через TCP", "Отправка и получение фото через TCP\Отправка и получение фото через TCP.csproj", "{FA6AE207-5781-47F7-9E85-10298286D606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Клиент", "Клиент\Клиент.csproj", "{98E960C6-E27C-4755-8998-0C0EE6BDFB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6AE207-5781-47F7-9E85-10298286D606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6AE207-5781-47F7-9E85-10298286D606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6AE207-5781-47F7-9E85-10298286D606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6AE207-5781-47F7-9E85-10298286D606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E960C6-E27C-4755-8998-0C0EE6BDFB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E960C6-E27C-4755-8998-0C0EE6BDFB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E960C6-E27C-4755-8998-0C0EE6BDFB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E960C6-E27C-4755-8998-0C0EE6BDFB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8951B6B0-5550-4A73-9BD8-5A862256068F}
+	EndGlobalSection
+EndGlobal
